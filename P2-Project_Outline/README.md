@@ -24,6 +24,7 @@ CSS/Bootstrap
 
 ### What I'll Have to Learn
 How to add upload capabilities to a website
+JavaFX for graph
 How to calculate weekly totals and only display on "Saturday" of the table
 
 ### Project Tracker
