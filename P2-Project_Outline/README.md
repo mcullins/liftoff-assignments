@@ -21,6 +21,7 @@ MySQL
 Hibernate
 Thymeleaf templates
 CSS/Bootstrap
+JS Highcharts
 
 ### What I'll Have to Learn
 How to add upload capabilities to a website
